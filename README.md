@@ -10,11 +10,11 @@ This repository is a collection of projects that represent my journey and passio
 
 This directory contains projects developed using the Arduino IDE with the ESP32 as the main microcontroller. These applications demonstrate firmware development, sensor integration, wireless communication, and IoT system design.
 
-**IoT Jukebox**: A Wi-Fi enabled music player with remote control and customization capabilities.
+- **IoT Jukebox**: A Wi-Fi enabled music player with remote control and customization capabilities.
 
-**Wireless Access Control System**: A secure, biometric/RFID-based entry system with remote management.
+- **Wireless Access Control System**: A secure, biometric/RFID-based entry system with remote management.
 
-**Study Room Monitoring System**: An occupancy and environmental monitoring solution using motion, sound, and ambient sensors.
+- **Study Room Monitoring System**: An occupancy and environmental monitoring solution using motion, sound, and ambient sensors.
 
 ### 2. Parallel Programming
 
